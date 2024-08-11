@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-mergeDebugResources-41:\\layout\\fragment_recycler_view.xml",
+        "source": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-main-44:\\layout\\fragment_recycler_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-mergeDebugResources-41:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-main-44:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-mergeDebugResources-41:\\layout\\fragment_re_incubator.xml",
+        "source": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-main-44:\\layout\\fragment_re_incubator.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-mergeDebugResources-41:\\layout\\fragment_item_list.xml",
+        "source": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-main-44:\\layout\\fragment_item_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-mergeDebugResources-41:\\layout\\fragment_settings.xml",
+        "source": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-main-44:\\layout\\fragment_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-mergeDebugResources-41:\\layout\\fragment_re_farm.xml",
+        "source": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-main-44:\\layout\\fragment_re_farm.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-mergeDebugResources-41:\\layout\\fragment_check_buggy.xml",
+        "source": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-main-44:\\layout\\fragment_check_buggy.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-mergeDebugResources-41:\\layout\\fragment_page.xml",
+        "source": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-main-44:\\layout\\fragment_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-mergeDebugResources-41:\\layout\\fragment_tickets.xml",
+        "source": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-main-44:\\layout\\fragment_tickets.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-mergeDebugResources-41:\\layout\\row_recycler_view.xml",
+        "source": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-main-44:\\layout\\row_recycler_view.xml"
+    },
+    {
+        "merged": "com.danielme.android.bottomnavigation.app-mergeDebugResources-41:/layout/fragment_settings.xml",
+        "source": "com.danielme.android.bottomnavigation.app-main-44:/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-mergeDebugResources-41:\\layout\\fragment_re_driver.xml",
+        "source": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-main-44:\\layout\\fragment_re_driver.xml"
+    },
+    {
+        "merged": "com.danielme.android.bottomnavigation.app-mergeDebugResources-41:/layout/fragment_page.xml",
+        "source": "com.danielme.android.bottomnavigation.app-main-44:/layout/fragment_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-mergeDebugResources-41:\\layout\\fragment_re_egg.xml",
+        "source": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-main-44:\\layout\\fragment_re_egg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-mergeDebugResources-41:\\layout\\fragment_item.xml",
+        "source": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-main-44:\\layout\\fragment_item.xml"
+    }
+]

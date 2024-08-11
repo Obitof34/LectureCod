@@ -1,0 +1,4 @@
+com.danielme.android.bottomnavigation.test.app-androidTest-0 C:\Users\Fer\Desktop\android-BottomNavigationView-demo-main\android-BottomNavigationView-demo-main\app\build\generated\res\resValues\androidTest\debug
+com.danielme.android.bottomnavigation.test.app-mergeDebugAndroidTestResources-1 C:\Users\Fer\Desktop\android-BottomNavigationView-demo-main\android-BottomNavigationView-demo-main\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.danielme.android.bottomnavigation.test.app-mergeDebugAndroidTestResources-2 C:\Users\Fer\Desktop\android-BottomNavigationView-demo-main\android-BottomNavigationView-demo-main\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.danielme.android.bottomnavigation.test.app-merged_res-3 C:\Users\Fer\Desktop\android-BottomNavigationView-demo-main\android-BottomNavigationView-demo-main\app\build\intermediates\merged_res\debugAndroidTest

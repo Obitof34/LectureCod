@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.danielme.android.bottomnavigation.app-mergeDebugResources-40:/values-v22/values-v22.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Fer\\.gradle\\caches\\transforms-3\\a2122a1d4bc24d36d7d4a1f4af27f2af\\transformed\\appcompat-1.5.0\\res\\values-v22\\values-v22.xml",
+                    "from": {
+                        "startLines": "2,3,4,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,487",
+                        "endLines": "2,3,8,13",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,482,764"
+                    }
+                }
+            ]
+        }
+    ]
+}

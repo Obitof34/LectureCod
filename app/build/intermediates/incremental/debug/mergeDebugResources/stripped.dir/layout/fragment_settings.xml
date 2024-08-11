@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Settings">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:background="#3C3131"
+        android:backgroundTint="#FFFFFF"
+        android:layout_height="match_parent">
+
+        <Button
+            android:id="@+id/btnFarm"
+            android:layout_width="238dp"
+            android:layout_height="86dp"
+            android:backgroundTint="#3d95c1"
+            android:text="REGISTER FARMS"
+            android:textColor="#FFFFFF"
+            android:textSize="20dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.497"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.658"
+            tools:ignore="MissingConstraints" />
+
+        <Button
+            android:id="@+id/btnEgg"
+            android:layout_width="238dp"
+            android:layout_height="86dp"
+            android:backgroundTint="#3d95c1"
+            android:text="REGISTER EGG TYPE "
+            android:textColor="#FFFFFF"
+            android:textSize="20dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.497"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.234"
+            tools:ignore="MissingConstraints" />
+
+        <Button
+            android:id="@+id/btnBuggy"
+            android:layout_width="238dp"
+            android:layout_height="86dp"
+            android:backgroundTint="#3d95c1"
+            android:text="REGISTER BUGGY"
+            android:textColor="#FFFFFF"
+            android:textSize="20dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.497"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.451"
+            tools:ignore="MissingConstraints" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</FrameLayout>

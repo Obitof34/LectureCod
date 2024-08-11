@@ -1,0 +1,274 @@
+[
+    {
+        "merged": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-merged_res-42:\\layout_row_recycler_view.xml.flat",
+        "source": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-main-44:\\layout\\row_recycler_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-merged_res-42:\\drawable-mdpi_baseline_list_black_24.png.flat",
+        "source": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-main-44:\\drawable-mdpi\\baseline_list_black_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-merged_res-42:\\drawable-xhdpi_baseline_app_settings_alt_black_48.png.flat",
+        "source": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-main-44:\\drawable-xhdpi\\baseline_app_settings_alt_black_48.png"
+    },
+    {
+        "merged": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-merged_res-42:\\layout_fragment_re_egg.xml.flat",
+        "source": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-main-44:\\layout\\fragment_re_egg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-merged_res-42:\\drawable-xhdpi_baseline_favorite_black_24.png.flat",
+        "source": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-main-44:\\drawable-xhdpi\\baseline_favorite_black_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-merged_res-42:\\drawable-mdpi_baseline_app_settings_alt_black_48.png.flat",
+        "source": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-main-44:\\drawable-mdpi\\baseline_app_settings_alt_black_48.png"
+    },
+    {
+        "merged": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-merged_res-42:\\layout_fragment_settings.xml.flat",
+        "source": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-main-44:\\layout\\fragment_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-merged_res-42:\\drawable-xxhdpi_baseline_home_black_24.png.flat",
+        "source": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-main-44:\\drawable-xxhdpi\\baseline_home_black_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-merged_res-42:\\layout_fragment_recycler_view.xml.flat",
+        "source": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-main-44:\\layout\\fragment_recycler_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-merged_res-42:\\drawable-xxxhdpi_baseline_search_black_48.png.flat",
+        "source": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-main-44:\\drawable-xxxhdpi\\baseline_search_black_48.png"
+    },
+    {
+        "merged": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-merged_res-42:\\layout_fragment_tickets.xml.flat",
+        "source": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-main-44:\\layout\\fragment_tickets.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-merged_res-42:\\drawable-xhdpi_baseline_list_black_24.png.flat",
+        "source": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-main-44:\\drawable-xhdpi\\baseline_list_black_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-merged_res-42:\\drawable-xxxhdpi_baseline_app_settings_alt_black_48.png.flat",
+        "source": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-main-44:\\drawable-xxxhdpi\\baseline_app_settings_alt_black_48.png"
+    },
+    {
+        "merged": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-merged_res-42:\\drawable-hdpi_baseline_favorite_black_48.png.flat",
+        "source": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-main-44:\\drawable-hdpi\\baseline_favorite_black_48.png"
+    },
+    {
+        "merged": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-merged_res-42:\\drawable-xxhdpi_baseline_app_settings_alt_black_48.png.flat",
+        "source": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-main-44:\\drawable-xxhdpi\\baseline_app_settings_alt_black_48.png"
+    },
+    {
+        "merged": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-merged_res-42:\\navigation_nav.xml.flat",
+        "source": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-main-44:\\navigation\\nav.xml"
+    },
+    {
+        "merged": "com.danielme.android.bottomnavigation.app-merged_res-42:/layout_fragment_settings.xml.flat",
+        "source": "com.danielme.android.bottomnavigation.app-main-44:/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-merged_res-42:\\anim_bottom_nav_exit.xml.flat",
+        "source": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-main-44:\\anim\\bottom_nav_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-merged_res-42:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-main-44:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-merged_res-42:\\drawable-xxhdpi_baseline_search_black_24.png.flat",
+        "source": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-main-44:\\drawable-xxhdpi\\baseline_search_black_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-merged_res-42:\\layout_fragment_item_list.xml.flat",
+        "source": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-main-44:\\layout\\fragment_item_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-merged_res-42:\\drawable-xxxhdpi_baseline_favorite_black_48.png.flat",
+        "source": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-main-44:\\drawable-xxxhdpi\\baseline_favorite_black_48.png"
+    },
+    {
+        "merged": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-merged_res-42:\\drawable-xxxhdpi_baseline_list_black_24.png.flat",
+        "source": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-main-44:\\drawable-xxxhdpi\\baseline_list_black_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-merged_res-42:\\drawable-xhdpi_baseline_search_black_24.png.flat",
+        "source": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-main-44:\\drawable-xhdpi\\baseline_search_black_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-merged_res-42:\\layout_fragment_item.xml.flat",
+        "source": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-main-44:\\layout\\fragment_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-merged_res-42:\\drawable-mdpi_baseline_home_black_48.png.flat",
+        "source": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-main-44:\\drawable-mdpi\\baseline_home_black_48.png"
+    },
+    {
+        "merged": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-merged_res-42:\\drawable-hdpi_baseline_home_black_24.png.flat",
+        "source": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-main-44:\\drawable-hdpi\\baseline_home_black_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-merged_res-42:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-main-44:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-merged_res-42:\\drawable-hdpi_baseline_app_settings_alt_black_48.png.flat",
+        "source": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-main-44:\\drawable-hdpi\\baseline_app_settings_alt_black_48.png"
+    },
+    {
+        "merged": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-merged_res-42:\\layout_fragment_re_incubator.xml.flat",
+        "source": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-main-44:\\layout\\fragment_re_incubator.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-merged_res-42:\\drawable-xxhdpi_baseline_app_settings_alt_black_24.png.flat",
+        "source": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-main-44:\\drawable-xxhdpi\\baseline_app_settings_alt_black_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-merged_res-42:\\drawable-mdpi_baseline_app_settings_alt_black_24.png.flat",
+        "source": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-main-44:\\drawable-mdpi\\baseline_app_settings_alt_black_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-merged_res-42:\\layout_fragment_page.xml.flat",
+        "source": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-main-44:\\layout\\fragment_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-merged_res-42:\\layout_fragment_re_driver.xml.flat",
+        "source": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-main-44:\\layout\\fragment_re_driver.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-merged_res-42:\\drawable-mdpi_baseline_favorite_black_48.png.flat",
+        "source": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-main-44:\\drawable-mdpi\\baseline_favorite_black_48.png"
+    },
+    {
+        "merged": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-merged_res-42:\\drawable-xhdpi_baseline_home_black_48.png.flat",
+        "source": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-main-44:\\drawable-xhdpi\\baseline_home_black_48.png"
+    },
+    {
+        "merged": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-merged_res-42:\\drawable-xxxhdpi_baseline_home_black_48.png.flat",
+        "source": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-main-44:\\drawable-xxxhdpi\\baseline_home_black_48.png"
+    },
+    {
+        "merged": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-merged_res-42:\\drawable-hdpi_baseline_search_black_24.png.flat",
+        "source": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-main-44:\\drawable-hdpi\\baseline_search_black_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-merged_res-42:\\drawable-xhdpi_baseline_favorite_black_48.png.flat",
+        "source": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-main-44:\\drawable-xhdpi\\baseline_favorite_black_48.png"
+    },
+    {
+        "merged": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-merged_res-42:\\drawable-mdpi_baseline_search_black_48.png.flat",
+        "source": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-main-44:\\drawable-mdpi\\baseline_search_black_48.png"
+    },
+    {
+        "merged": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-merged_res-42:\\drawable-xxhdpi_baseline_home_black_48.png.flat",
+        "source": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-main-44:\\drawable-xxhdpi\\baseline_home_black_48.png"
+    },
+    {
+        "merged": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-merged_res-42:\\drawable-hdpi_baseline_list_black_24.png.flat",
+        "source": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-main-44:\\drawable-hdpi\\baseline_list_black_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-merged_res-42:\\drawable-xxxhdpi_baseline_search_black_24.png.flat",
+        "source": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-main-44:\\drawable-xxxhdpi\\baseline_search_black_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-merged_res-42:\\drawable-xxxhdpi_baseline_home_black_24.png.flat",
+        "source": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-main-44:\\drawable-xxxhdpi\\baseline_home_black_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-merged_res-42:\\drawable-xxhdpi_baseline_search_black_48.png.flat",
+        "source": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-main-44:\\drawable-xxhdpi\\baseline_search_black_48.png"
+    },
+    {
+        "merged": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-merged_res-42:\\drawable-xhdpi_baseline_app_settings_alt_black_24.png.flat",
+        "source": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-main-44:\\drawable-xhdpi\\baseline_app_settings_alt_black_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-merged_res-42:\\drawable-hdpi_baseline_favorite_black_24.png.flat",
+        "source": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-main-44:\\drawable-hdpi\\baseline_favorite_black_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-merged_res-42:\\anim_bottom_nav_enter.xml.flat",
+        "source": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-main-44:\\anim\\bottom_nav_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-merged_res-42:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-main-44:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-merged_res-42:\\drawable-xxxhdpi_baseline_app_settings_alt_black_24.png.flat",
+        "source": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-main-44:\\drawable-xxxhdpi\\baseline_app_settings_alt_black_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-merged_res-42:\\layout_fragment_check_buggy.xml.flat",
+        "source": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-main-44:\\layout\\fragment_check_buggy.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-merged_res-42:\\layout_fragment_re_farm.xml.flat",
+        "source": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-main-44:\\layout\\fragment_re_farm.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-merged_res-42:\\drawable-xxhdpi_baseline_favorite_black_24.png.flat",
+        "source": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-main-44:\\drawable-xxhdpi\\baseline_favorite_black_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-merged_res-42:\\drawable-mdpi_baseline_home_black_24.png.flat",
+        "source": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-main-44:\\drawable-mdpi\\baseline_home_black_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-merged_res-42:\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-main-44:\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-merged_res-42:\\drawable-xxxhdpi_baseline_favorite_black_24.png.flat",
+        "source": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-main-44:\\drawable-xxxhdpi\\baseline_favorite_black_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-merged_res-42:\\drawable-xxhdpi_baseline_favorite_black_48.png.flat",
+        "source": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-main-44:\\drawable-xxhdpi\\baseline_favorite_black_48.png"
+    },
+    {
+        "merged": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-merged_res-42:\\drawable-xxhdpi_baseline_list_black_24.png.flat",
+        "source": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-main-44:\\drawable-xxhdpi\\baseline_list_black_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-merged_res-42:\\drawable-hdpi_baseline_home_black_48.png.flat",
+        "source": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-main-44:\\drawable-hdpi\\baseline_home_black_48.png"
+    },
+    {
+        "merged": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-merged_res-42:\\drawable-hdpi_baseline_search_black_48.png.flat",
+        "source": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-main-44:\\drawable-hdpi\\baseline_search_black_48.png"
+    },
+    {
+        "merged": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-merged_res-42:\\drawable-mdpi_baseline_search_black_24.png.flat",
+        "source": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-main-44:\\drawable-mdpi\\baseline_search_black_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-merged_res-42:\\drawable-xhdpi_baseline_search_black_48.png.flat",
+        "source": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-main-44:\\drawable-xhdpi\\baseline_search_black_48.png"
+    },
+    {
+        "merged": "com.danielme.android.bottomnavigation.app-merged_res-42:/layout_fragment_page.xml.flat",
+        "source": "com.danielme.android.bottomnavigation.app-main-44:/layout/fragment_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-merged_res-42:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-main-44:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-merged_res-42:\\drawable-mdpi_baseline_favorite_black_24.png.flat",
+        "source": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-main-44:\\drawable-mdpi\\baseline_favorite_black_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-merged_res-42:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-main-44:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-merged_res-42:\\drawable-hdpi_baseline_app_settings_alt_black_24.png.flat",
+        "source": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-main-44:\\drawable-hdpi\\baseline_app_settings_alt_black_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-merged_res-42:\\drawable-xhdpi_baseline_home_black_24.png.flat",
+        "source": "C:\\Users\\Fer\\.gradle\\daemon\\8.0\\com.danielme.android.bottomnavigation.app-main-44:\\drawable-xhdpi\\baseline_home_black_24.png"
+    }
+]

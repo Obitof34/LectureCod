@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav"
+    app:startDestination="@id/reEgg">
+
+    <fragment
+        android:id="@+id/tickets"
+        android:name="com.danielme.android.bottomnavigation.fragments.RecyclerViewFragment"
+        android:label="@string/bottom_nav_list"
+        tools:layout="@layout/fragment_tickets" />
+    <fragment
+        android:id="@+id/page_home"
+        android:name="com.danielme.android.bottomnavigation.fragments.PageFragment"
+        android:label="@string/bottom_nav_home"
+        tools:layout="@layout/fragment_page">
+        <argument
+            android:name="ARG_ICON"
+            android:defaultValue="@drawable/baseline_home_black_48"
+            app:argType="reference" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/page_list"
+        android:name="com.danielme.android.bottomnavigation.fragments.RecyclerViewFragment"
+        android:label="@string/bottom_nav_list"
+        tools:layout="@layout/fragment_recycler_view" />
+    <fragment
+        android:id="@+id/settings"
+        android:name="com.danielme.android.bottomnavigation.Settings"
+        android:label="fragment_settings"
+        tools:layout="@layout/fragment_settings" />
+    <navigation android:id="@+id/Register">
+        <fragment
+            android:id="@+id/reIncubator"
+            android:name="com.danielme.android.bottomnavigation.ReIncubator"
+            android:label="fragment_re_incubator"
+            tools:layout="@layout/fragment_re_incubator" />
+        <fragment
+            android:id="@+id/reFarm"
+            android:name="com.danielme.android.bottomnavigation.ReFarm"
+            android:label="fragment_re_farm"
+            tools:layout="@layout/fragment_re_farm" />
+        <fragment
+            android:id="@+id/reDriver"
+            android:name="com.danielme.android.bottomnavigation.ReDriver"
+            android:label="fragment_re_driver"
+            tools:layout="@layout/fragment_re_driver" />
+        <fragment
+            android:id="@+id/reEgg"
+            android:name="com.danielme.android.bottomnavigation.ReEgg"
+            android:label="fragment_re_egg"
+            tools:layout="@layout/fragment_re_egg" />
+    </navigation>
+    <fragment
+        android:id="@+id/checkBuggy"
+        android:name="com.danielme.android.bottomnavigation.CheckBuggy"
+        android:label="fragment_check_buggy"
+        tools:layout="@layout/fragment_check_buggy" />
+</navigation>
